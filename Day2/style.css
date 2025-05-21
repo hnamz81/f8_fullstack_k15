@@ -1,0 +1,16 @@
+.container{
+    width: 40%;
+    margin: 0 auto;
+    background-color: #B2CD9C;
+    padding: 20px;
+    border-radius: 20px;
+}
+.header{
+    text-align: center;
+}
+.main{
+    background-color: #F0F2BD;
+    border-radius: 20px;
+    padding: 10px 30px;
+
+}
